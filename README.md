@@ -8,7 +8,9 @@ O Scrum serve para agilizar e facilitar o desenvolvimento de um projeto, conside
 Como funciona o método Scrum? 
 
 
-2 - O método Scrum organiza uma equipe para resolver um projeto complexo, esse time é composto pelo Project Owner, o Scrum Master e os desenvolvedores, todos estão no mesmo nível de responsabilidade e todos são responsáveis pelo sucesso ou fracasso do projeto, a diferença do Scrum para outros métodos é o uso de time-boxes que são fixas.
+2 -Como funciona o método Scrum? 
+
+O método Scrum organiza uma equipe para resolver um projeto complexo, esse time é composto pelo Project Owner, o Scrum Master e os desenvolvedores, todos estão no mesmo nível de responsabilidade e todos são responsáveis pelo sucesso ou fracasso do projeto, a diferença do Scrum para outros métodos é o uso de time-boxes que são fixas.
 
 3 - O que é Git? 
 
