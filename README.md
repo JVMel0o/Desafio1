@@ -27,10 +27,12 @@ git remote add nome caminho (para adicionar a pasta como repositório)
 6 - O que é o HTTP? 
 
 HTTP é um protocolo que estabelece regras de como será a comunicação do cliente/navegador com o servidor web.
-Como funciona o HTTP? 
 
-8 - O HTTP funciona através do modelo Client-Server, o cliente (o usuário) faz uma solicitação e o servidor responde, Requisição-Resposta.
-Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? 
+7 - Como funciona o HTTP? 
+
+HTTP funciona através do modelo Client-Server, o cliente (o usuário) faz uma solicitação e o servidor responde, Requisição-Resposta.
+
+8 - Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? 
 
 git add nome do arquivo
 
