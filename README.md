@@ -32,7 +32,7 @@ Como funciona o HTTP?
 8 - O HTTP funciona através do modelo Client-Server, o cliente (o usuário) faz uma solicitação e o servidor responde, Requisição-Resposta.
 Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? 
 
-git add <arquivo>
+git add nome do arquivo
 
 Ou para todos os arquivos
 
@@ -45,7 +45,7 @@ Ela é a Branch principal de quando você cria um repositório, ela serve para s
 10 - Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? 
 
 (na branch main)
-git merge <nome da branch>
+git merge nome da branch
 
 11 - Qual a diferença entre git e github? 
 
