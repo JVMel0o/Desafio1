@@ -22,7 +22,7 @@ O Product Owner é quem paga a funcionalidade do projeto e representa o cliente 
 
 git init –bare (para iniciar a pasta que servirá de repositório, esse comando gera um caminho)
 
-git remote add <nome> <caminho> (para adicionar a pasta como repositório)
+git remote add nome caminho (para adicionar a pasta como repositório)
 
 6 - O que é o HTTP? 
 
