@@ -12,3 +12,4 @@ console.log('11 - Qual a diferença entre git e github?');
 console.log('12 - Quais os dois verbos http que podemos utilizar para realizar um update? Explique a diferença entre eles.');
 console.log('13 - Qual o status code que pode ser usado na criação de um novo usuário?');
 console.log('14 - Quais são os três status code que modem ser utilizados para realizar o delete?');
+console.log('15 - Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)!');
