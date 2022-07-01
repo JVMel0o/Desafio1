@@ -9,3 +9,4 @@ console.log('8 - Com o Git Você pode propor mudanças (adicioná-las ao Index) 
 console.log('9 - O que é a Branch master e para que serve?');
 console.log('10 - Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?');
 console.log('11 - Qual a diferença entre git e github?');
+console.log('12 - Quais os dois verbos http que podemos utilizar para realizar um update? Explique a diferença entre eles.');
