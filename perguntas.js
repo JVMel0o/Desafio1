@@ -13,3 +13,4 @@ console.log('12 - Quais os dois verbos http que podemos utilizar para realizar u
 console.log('13 - Qual o status code que pode ser usado na criação de um novo usuário?');
 console.log('14 - Quais são os três status code que modem ser utilizados para realizar o delete?');
 console.log('15 - Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)!');
+console.log('16 - Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:');
