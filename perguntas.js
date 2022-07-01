@@ -11,3 +11,4 @@ console.log('10 - Quais são os comandos usados para atualizar um repositório l
 console.log('11 - Qual a diferença entre git e github?');
 console.log('12 - Quais os dois verbos http que podemos utilizar para realizar um update? Explique a diferença entre eles.');
 console.log('13 - Qual o status code que pode ser usado na criação de um novo usuário?');
+console.log('14 - Quais são os três status code que modem ser utilizados para realizar o delete?');
